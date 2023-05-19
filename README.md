@@ -1,8 +1,8 @@
 - 👋 Hi, I’m AFFAN
-- 👀 I’m interested in Machine Learning, Python & Data Science
-- 🌱 I’m currently learning REST-APIs
-- 💞️ I’m looking to collaborate on Python APIs
-- 📫 To reach me DM @affan_210 on Twitter
+- 👀 I’m interested in Machine Learning & Data Science
+- 🌱 I’m currently learning MLOps
+- 💞️ I’m looking to collaborate on Machine Learning or Python
+- 📫 To reach me DM @twitter.com/affan0mohammad
 
 <!---
 affan210/affan210 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
